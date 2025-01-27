@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, MERN**
 
-- 📫 How to reach me **parthviper019@gmai.com**
+- 📫 How to reach me **parthviper019@gmail.com**
 
 - ⚡ Fun fact **I spend more time debugging than coding, but hey, that's just job security! 😅**
 
