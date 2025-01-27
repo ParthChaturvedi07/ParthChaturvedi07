@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQFjbV6vmupyHg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1698127078487?e=1743638400&v=beta&t=bXJ5DqSAhbmtRT9C-Y6U7R4YDYTlPYCJcQ4VC1irIQ8)](https://www.linkedin.com/in/parth-chaturvedi-dev/)
 <h1 align="center">Hi 👋, I'm Parth Chaturvedi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">"A passionate Full Stack Developer (MERN/MEEN) dedicated to crafting dynamic web experiences, bringing life to interfaces with GSAP animations, creating basic 3D visuals using Three.js, mastering Git & GitHub, and leveraging proficiency in C++ & C to build innovative solutions."</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif">
 
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, MERN**
 
-- 📫 How to reach me **parthchaturvedi0204@gmai.com**
+- 📫 How to reach me **parthviper019@gmai.com**
 
 - ⚡ Fun fact **I spend more time debugging than coding, but hey, that's just job security! 😅**
 
