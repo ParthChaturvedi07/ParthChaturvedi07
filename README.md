@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Parth Chaturvedi</h1>
 <h3 align="center">A passionate Full Stack Developer driven by versatility and a flair for creative, interactive web development</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif">
+<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZ3Ynp2czV4Z3d0emd0MmwxczJhdGQ4OHpudDQxazhnb2xrNTZtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)">
 
 - 🔭 I’m currently working on my **Portfolio**
 
