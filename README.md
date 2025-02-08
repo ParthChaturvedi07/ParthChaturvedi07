@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZ3Ynp2czV4Z3d0emd0MmwxczJhdGQ4OHpudDQxazhnb2xrNTZtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
-- 🔭 I’m currently working on my **Portfolio**
+- 🔭 I’m currently working on my **AI integration techniques**
 
 - 🌱 I’m currently learning **Next.js**
 
