@@ -1,4 +1,5 @@
-[![LinkedIn Banner](https://media.licdn.com/dms/image/v2/D5616AQFjbV6vmupyHg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1698127078487?e=1743638400&v=beta&t=bXJ5DqSAhbmtRT9C-Y6U7R4YDYTlPYCJcQ4VC1irIQ8)](https://www.linkedin.com/in/parth-chaturvedi-dev/)
+[![LinkedIn Banner](https://media.licdn.com/dms/image/v2/D5616AQFjbV6vmupyHg/profile-displaybackgroundimage-shrink_350_1400/0/1698127078487?e=1743638400&v=beta&t=bXJ5DqSAhbmtRT9C-Y6U7R4YDYTlPYCJcQ4VC1irIQ8)](https://www.linkedin.com/in/parth-chaturvedi-dev/)
+
 <h1 align="center">Hi 👋, I'm Parth Chaturvedi</h1>
 <h3 align="center">A passionate Full Stack Developer driven by versatility and a flair for creative, interactive web development</h3>
 
