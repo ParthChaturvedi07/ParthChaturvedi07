@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my **AI integration techniques**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Gen AI**
 
 - 💬 Ask me about **React, MERN**
 
