@@ -25,8 +25,6 @@
 
 ![Top Langs](https://github-readme-stats-orpin-ten-89.vercel.app/api/top-langs/?username=parthchaturvedi07&layout=compact)
 
-![Stats](https://github-readme-stats-orpin-ten-89.vercel.app/api?username=parthchaturvedi07)
-
 
 
 
