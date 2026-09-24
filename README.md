@@ -47,7 +47,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   </a>
   <a href="https://js.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/langchain-ai/langchainjs/main/docs/static/img/brand/wordmark.png" alt="langchainjs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langchain-color.png" alt="langchainjs" width="40" height="40"/>
   </a>
 </p>
 
